@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://armaragex.github.io/lestallion-zenbook-privacy-filter-795/sitemap.xml
